@@ -3,20 +3,21 @@ layout: default
 ---
 
 <div class="home">
-
-  <h1 class="page-heading">帮助文档</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
+  <h2>你是否遇到了这些问题</h2>
+</div>
+<div class="all-faq">
+  {% for category in site.categories %}
+  <div class="faq-group faq-group-10">
+    <h3>
+      {{ category | first }}
+    </h3>
+    <ul class="faq-list">
+      {% for post in category.last %}
       <li>
-        <!--<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>-->
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
-    {% endfor %}
-  </ul>
-
-
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
 </div>

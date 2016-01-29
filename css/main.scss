@@ -23,7 +23,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    1030px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -51,3 +51,61 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+#help-index #faq.section .all-faq {
+  margin: 0 auto;
+  text-align: left;
+  width: 960px;
+}
+.faq-group {
+  display: inline-block;
+  margin: 30px 20px 0 0;
+  vertical-align: top;
+  width: 300px;
+}
+#help-index #faq.section .faq-group .faq-list {
+  color: #ccc;
+  list-style: outside none disc;
+  margin: 10px 20px 0 25px;
+}
+
+#help-index #faq.section .faq-group .faq-list li a {
+  display: block;
+  font-size: 14px;
+  line-height: 1em;
+}
+
+a {
+  color: #4298ba;
+  text-decoration: none;
+}
+a:hover,a:focus{
+  color: #0d72ba;
+  text-decoration: none;
+}
+a {
+  background: transparent none repeat scroll 0 0;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+}
+*::-moz-placeholder {
+  color: #999999 !important;
+}
+h2 {
+  color: #476f67;
+  font-size: 26px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.site-header{
+  border-top: none;
+}
+h3{
+  font-weight: bold;
+}
+.faq-list {
+  color: #ccc;
+  list-style: outside none disc;
+}
