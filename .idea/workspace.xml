@@ -1,53 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43a5f857-1f35-400d-a250-0ed955b42442" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work28.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/oahelps_img/liucheng.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oahelps_img/gonggao_2.png" afterPath="$PROJECT_DIR$/oahelps_img/gonggao_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oahelps_img/kaoqin_1.png" afterPath="$PROJECT_DIR$/oahelps_img/kaoqin_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oahelps_img/kaoqin_2.png" afterPath="$PROJECT_DIR$/oahelps_img/kaoqin_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oahelps_img/kaoqin_3.png" afterPath="$PROJECT_DIR$/oahelps_img/kaoqin_3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oahelps_img/renwu_1.png" afterPath="$PROJECT_DIR$/oahelps_img/renwu_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oahelps_img/renwu_2.png" afterPath="$PROJECT_DIR$/oahelps_img/renwu_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oahelps_img/wendang_1.png" afterPath="$PROJECT_DIR$/oahelps_img/wendang_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oahelps_img/wendang_2.png" afterPath="$PROJECT_DIR$/oahelps_img/wendang_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oahelps_img/xiangmu_1.png" afterPath="$PROJECT_DIR$/oahelps_img/xiangmu_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oahelps_img/xiangmu_2.png" afterPath="$PROJECT_DIR$/oahelps_img/xiangmu_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work10.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work10.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work11.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work11.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work12.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work12.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work13.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work13.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work14.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work14.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work15.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work15.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work17.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work17.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work18.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work18.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work19.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work19.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work20.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work20.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work21.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work21.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work22.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work22.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work23.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work23.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work24.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work24.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work25.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work25.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work26.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work26.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work27.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work27.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work29.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work29.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work30.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work30.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work31.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work31.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work32.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work32.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work33.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work33.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work34.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work34.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work35.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work35.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work36.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work36.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work37.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work37.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work38.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work38.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work39.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work39.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work6.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work6.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work7.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work7.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work8.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work8.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-01-28-work9.md" afterPath="$PROJECT_DIR$/_posts/2016-01-28-work9.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="43a5f857-1f35-400d-a250-0ed955b42442" name="Default" comment="" />
     <ignored path="oahelp.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
